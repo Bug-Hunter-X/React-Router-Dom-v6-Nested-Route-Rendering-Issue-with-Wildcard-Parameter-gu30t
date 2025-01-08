@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router Dom v6 where nested routes fail to render correctly when using a wildcard route such as '/users/:id'.  The `User` component is not rendered, and debugging this scenario can be tricky. The solution provided addresses this routing conflict.
